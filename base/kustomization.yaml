@@ -7,4 +7,4 @@ resources:
 images:
 - name: schoolofdevops/vote
   newName: daisuke12108000/vote
-  newTag: 52eea4d
+  newTag: 3187abb
