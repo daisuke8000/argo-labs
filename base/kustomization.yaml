@@ -8,3 +8,6 @@ images:
 - name: schoolofdevops/vote
   newName: daisuke12108000/vote
   newTag: 3187abb
+- name: daisuke12108000/vote
+  newName: daisuke12108000/vote
+  newTag: 3187abb
