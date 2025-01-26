@@ -24,7 +24,7 @@ spec:
         tier: front
     spec:
       containers:
-      - image: daisuke12108000/vote
+      - image: daisuke12108000/vote:52eea4d
         name: vote
         imagePullPolicy: Always
         resources: 
