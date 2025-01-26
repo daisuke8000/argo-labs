@@ -5,6 +5,9 @@ resources:
 - service.yaml
 - preview-service.yaml
 images:
-- name: schoolofdevops/vote
+#- name: schoolofdevops/vote
+#  newName: daisuke12108000/vote
+#  newTag: 3187abb
+- name: daisuke12108000/vote
   newName: daisuke12108000/vote
   newTag: 3187abb
